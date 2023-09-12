@@ -1,0 +1,130 @@
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: Start method: MethodStart: Info
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: I broke a logic: Error
+9/5/2023 10:48:28 PM: Action failed because of: I broke a logic: Error
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
+9/5/2023 10:48:28 PM: Skipped logic in the method: MethodSkipLogic: Warning
