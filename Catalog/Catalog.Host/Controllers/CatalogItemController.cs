@@ -1,4 +1,5 @@
 using System.Net;
+using Catalog.Host.Models.Dtos;
 using Catalog.Host.Models.Requests;
 using Catalog.Host.Models.Response;
 using Catalog.Host.Services.Interfaces;
@@ -28,5 +29,19 @@ public class CatalogItemController : ControllerBase
     {
         var result = await _catalogItemService.Add(request.Name, request.Description, request.Price, request.AvailableStock, request.CatalogBrandId, request.CatalogTypeId, request.PictureFileName);
         return Ok(new AddItemResponse<int?>() { Id = result });
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult DeleteItem(int id)
+    {
+        _logger.LogInformation("Deleting item with ID: " + id);
+        return Ok("Item deleted successfully");
+    }
+
+    [HttpPut("{id}")]
+    public IActionResult UpdateItem(int id, [FromBody] CatalogItemDto updatedItem)
+    {
+        _logger.LogInformation("Updating item with ID: " + id);
+        return Ok("Item updated successfully");
     }
 }

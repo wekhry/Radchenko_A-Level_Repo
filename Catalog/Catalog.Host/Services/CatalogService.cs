@@ -38,4 +38,54 @@ public class CatalogService : BaseDataService<ApplicationDbContext>, ICatalogSer
             };
         });
     }
+
+    public async Task<CatalogItemDto> GetCatalogItemByIdAsync(int id)
+    {
+        return await ExecuteSafeAsync(async () =>
+        {
+            var catalogItem = await _catalogItemRepository.GetByIdAsync(id);
+            if (catalogItem == null)
+            {
+                throw new Exception("Catalog item with ID " + id + " was not found.");
+            }
+
+            return _mapper.Map<CatalogItemDto>(catalogItem);
+        });
+    }
+
+    public async Task<List<CatalogItemDto>> GetCatalogItemsByBrandAsync(string brand)
+    {
+        return await ExecuteSafeAsync(async () =>
+        {
+            var items = await _catalogItemRepository.GetByBrandAsync(brand);
+            return items.Select(item => _mapper.Map<CatalogItemDto>(item)).ToList();
+        });
+    }
+
+    public async Task<List<CatalogItemDto>> GetCatalogItemsByTypeAsync(string type)
+    {
+        return await ExecuteSafeAsync(async () =>
+        {
+            var items = await _catalogItemRepository.GetByTypeAsync(type);
+            return items.Select(item => _mapper.Map<CatalogItemDto>(item)).ToList();
+        });
+    }
+
+    public async Task<List<string>> GetDistinctBrandsAsync()
+    {
+        return await ExecuteSafeAsync(async () =>
+        {
+            var distinctBrands = await _catalogItemRepository.GetDistinctBrandsAsync();
+            return distinctBrands.ToList();
+        });
+    }
+
+    public async Task<List<string>> GetDistinctTypesAsync()
+    {
+        return await ExecuteSafeAsync(async () =>
+        {
+            var distinctTypes = await _catalogItemRepository.GetDistinctTypesAsync();
+            return distinctTypes.ToList();
+        });
+    }
 }
